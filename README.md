@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithin</h1>
 <h3 align="center">VLSI & Hardware Design Enthusiast | ECE Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=nithin123&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 
 ---
 
