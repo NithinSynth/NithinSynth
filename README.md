@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**NithinSynth/NithinSynth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE 3rd Year Electronics & Communication Engineering Student (CGPA: 8.0)
 
-Here are some ideas to get you started:
+🔬 Passionate about VLSI Design, RTL Development, Digital IC Design & Processor Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Mini Project:
+• Design and Implementation of Radix-8 Booth Multiplier using Verilog  
+• Successfully implemented and verified on DE10-Standard FPGA (Intel Quartus)
+
+🚀 Currently Working On:
+• RISC-V Processor Design (Major Project)
+• RTL Design & Simulation
+• Learning Cadence EDA Tools for ASIC Design Flow
+
+🛠️ Technical Skills:
+• Verilog HDL
+• Digital Design & Computer Architecture
+• Intel Quartus (FPGA Design & Synthesis)
+• Cadence (Currently Learning – RTL to GDS Flow)
+
+🎯 Career Objective:
+Aspiring VLSI / Hardware Design Engineer seeking internship opportunities in semiconductor companies like NVIDIA, Qualcomm, TSMC and other core hardware firms.
+
+📫 Open to collaboration in RTL Design, FPGA projects, and Processor Design.
