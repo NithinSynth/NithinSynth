@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 BE 3rd Year Electronics & Communication Engineering (CGPA: 8.0)  
+🎓 BE 3rd Year Electronics & Communication Engineering 
 🔬 Interested in VLSI Design, RTL Design, Digital IC Design & Embedded Systems  
 
 💡 Mini Project:  
