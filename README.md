@@ -68,6 +68,4 @@ NVIDIA | Qualcomm | TSMC | Semiconductor Core Companies
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true&bg_color=00000000" />
-</p>
+
