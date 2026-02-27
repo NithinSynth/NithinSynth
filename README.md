@@ -53,7 +53,7 @@ NVIDIA | Qualcomm | TSMC | Semiconductor Core Companies
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&bg_color=00000000" />
 </p>
-theme=github-dark
+
 
 ## 🤝 Connect With Me
 
@@ -62,3 +62,4 @@ theme=github-dark
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
+theme=github-dark
