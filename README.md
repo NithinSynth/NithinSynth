@@ -28,7 +28,7 @@ NVIDIA | Qualcomm | TSMC | Semiconductor Core Companies
 
 ### 💻 Languages & HDL
 ![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### ⚙️ Tools & Platforms
 ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -62,4 +62,10 @@ NVIDIA | Qualcomm | TSMC | Semiconductor Core Companies
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
+
+
+
+
+
+
 theme=github-dark
